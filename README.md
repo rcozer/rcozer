@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @rcozer
 - 👀 I’m interested in getting back into programming.
 - 🌱 I’m currently starting my journey to learn to build my own NAS.  
-- 💞️ I’m looking to collaborate on TrueNAS (FreeNAS), OpenMediaVault and perhaps XigmaNas. 
+- 💞️ I’m looking to collaborate on TrueNAS (FreeNAS) or OpenMediaVault.
 - 📫 How to reach me ... Well I will have to remember to update my README.md file later when I'm setup and ready to collaborate. 
 
 <!---
